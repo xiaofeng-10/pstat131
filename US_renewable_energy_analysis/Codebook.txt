@@ -1,0 +1,19 @@
+Every entry that has a value of 0 means that the datapoint was either "Not Available," "No Data Reported," or "Not Meaningful"
+
+- `Year`: Calendar Year.
+- `Month`: Month number (1-12).
+- `Sector`: The energy consumption sector (Commercial, Electric Power, Industrial, Residential, or Transportation).
+- `Hydroelectric Power`: Hydroelectric power consumption in the given sector and month, in trillion BTUs.
+- `Geothermal Energy`: Geothermal energy consumption in the given sector and month, in trillion BTUs.
+- `Solar Energy`: Solar energy consumption in the given sector and month, in trillion BTUs.
+- `Wind Energy`: Wind energy consumption in the given sector and month, in trillion BTUs.
+- `Wood Energy`: Wood energy consumption in the given sector and month, in trillion BTUs.
+- `Waste Energy`: Waste energy consumption in the given sector and month, in trillion BTUs.
+- `Fuel Ethanol, Excluding Denaturant`: Fuel ethanol (excluding denaturant) consumption in the given sector and month, in trillion BTUs.
+- `Biomass Losses and Co-products`: Biomass losses and co-products in the given sector and month, in trillion BTUs.
+- `Biomass Energy`: Total biomass energy consumption (sum of wood, waste, ethanol, and losses/co-products) in the given sector and month, in trillion BTUs.
+- `Total Renewable Energy`: Total renewable energy consumption (sum of hydroelectric, geothermal, solar, wind, and biomass) in the given sector and month, in trillion BTUs.
+- `Renewable Diesel Fuel`: Renewable diesel fuel consumption in the given sector and month, in trillion BTUs.
+- `Other Biofuels`: Other biofuels consumption in the given sector and month, in trillion BTUs.
+- `Conventional Hydroelectric Power`: Conventional hydroelectric power consumption in the given sector and month, in trillion BTUs.
+- `Biodiesel`: Biodiesel consumption in the given sector and month, in trillion BTUs.
